@@ -1,16 +1,14 @@
 ---
 author: epidrome
 title: "Ralph Benjamin"
-image_url: /images/alan-kay.jpg
-caption: "O Alan Kay οραματίστηκε το Dynabook και δημιούργησε λογισμικό που διευκολύνει τα παιδιά να μάθουν να σκέφτονται μαζί με τους υπολογιστές"
+image_url: /images/ralph-benjamin.jpg
+caption: "Ο γερμανός Benjamin Ralph ευήβρε την πρώτη συσκευή εισόδου εν ονόματι Trackball ως ηλεκτρονικός μηχανικός. Ένα χρόνο μετά βραβεύτηκε με το δίπλωμα ευρεσιτεχνίας."
 categories:
   - Βιογραφία 
   - Ορισμός 
 tags:
-  - Alan Kay
-  - Ivan Sutherland
-  - Bret Victor
-  - Dynabook
-  - Smalltalk
-  - Xerox Alto
+  - Trackball
+  - Ralph Benjamin
+  - Roller ball 
+  - DATAR
 ---
