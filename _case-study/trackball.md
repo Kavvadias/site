@@ -10,6 +10,6 @@ tags:
   - screen pointer
   - mouse
 gallery:
-  - image_url: /images/trackball-mouse.png.png
+  - image_url: /images/trackball-mouse.png
     caption: ""
 ---
